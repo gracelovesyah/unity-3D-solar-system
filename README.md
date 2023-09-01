@@ -1,14 +1,14 @@
 # 3D Solar System Simulation in Unity
 
-Explore a 3D representation of our solar system using this Unity project.
+Dive into a 3D visualization of our solar system crafted using Unity.
 
 **Features:**
 
-- Depictions of the following celestial bodies:
+- Detailed models of celestial entities:
   * Sun
   * Mercury
   * Venus
-  * Earth (with Moon)
+  * Earth (inclusive of Moon)
   * Mars
   * Jupiter
   * Saturn
@@ -16,12 +16,14 @@ Explore a 3D representation of our solar system using this Unity project.
   * Neptune
   * Pluto
   
-- Witness the unique rotational speeds of each planet.
-- Interactively click on any planet to shift your viewing perspective.
+- Observe the distinct rotational velocities of each planet.
+- Engage with an interactive feature allowing you to click on any planet for a shifted perspective.
+
+**Assets & Scripts Source:** The assets and scripts utilized in this project are provided by [Coursera's Game Design and Development Course](https://www.coursera.org/learn/game-design-and-development-1/home/week/3).
 
 **Experience the Project:** [3D Solar System Simulation](https://graceliu.itch.io/solar-system)
 
-**Author Information:**
-Jiahe Liu
-- Email: jiahe3@student.unimelb.edu.au
-- Affiliation: School of Mathematics and Statistics, The University of Melbourne.
+**Author Details:**
+- **Name:** Jiahe Liu
+- **Email:** jiahe3@student.unimelb.edu.au
+- **Affiliation:** School of Mathematics and Statistics, The University of Melbourne.
