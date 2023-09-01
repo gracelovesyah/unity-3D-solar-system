@@ -2,6 +2,8 @@
 
 Dive into a 3D visualization of our solar system crafted using Unity.
 
+![Game Demo](solar.gif)
+
 **Features:**
 
 - Detailed models of celestial entities:
